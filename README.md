@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @krithikjayen7057
-- 👀 I’m interested in learning new things
+-  I’m interested in learning new things
 - 🌱 I’m currently learning B.TECH Computer Science Engineering in Karunya Institute Of Technology And Sciences , Coimbatore.
 - 📫 U can reach me in my mail ==> krithikjayen4@gmail.com
-- 😄 Pronouns: He/Him
+-  Pronouns: He/Him
 - ⚡ Fun fact: Love outdoor games and Video games .
 
 <!---
